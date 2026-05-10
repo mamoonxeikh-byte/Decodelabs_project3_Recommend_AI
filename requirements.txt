@@ -1,0 +1,15 @@
+# RecommendAI - Python Dependencies
+# ====================================
+# Install with: pip install -r requirements.txt
+
+# Backend
+fastapi
+uvicorn
+pydantic
+
+# Frontend
+streamlit
+requests
+
+# Utilities
+python-multipart
